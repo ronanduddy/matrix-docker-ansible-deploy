@@ -110,6 +110,7 @@ This is similar to the [EMnify/matrix-synapse-auto-deploy](https://github.com/EM
 
 To configure and install Matrix on your own server, follow the [README in the docs/ directory](docs/README.md).
 
+It should be possible to deploy to Digitalocean using the following [guide](inventory/scripts/digitalocean/README.md).
 
 ## Changes
 
